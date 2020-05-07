@@ -210,7 +210,7 @@ public class ClientMenu {
                 sendGreenhouseReadingsToDb();
             }
             else{
-                System.out.println("FEL haha");
+                System.out.println("Testar en ändring för Git :)");
             }
         }
     }
